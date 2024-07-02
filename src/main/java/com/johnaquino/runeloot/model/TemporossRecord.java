@@ -14,4 +14,6 @@ public class TemporossRecord {
     private String username;
     private int permitsCompleted;
     private boolean hasTinyTempor;
+
+
 }
